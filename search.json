@@ -1,16 +1,93 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "My Website",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
     "section": "",
-    "text": "Check back later!"
+    "text": "Yutian Du, Subing Lv, Fuqiang Wang, Jie Xu, Heng Zhao, Lei Tang, Heng Wang, and Honglu Zhang\nScientific Reports, 15, 6351 (2025)\nDOI\n\n\n\n\nHeng Zhao, Yingying Gai, Fuqiang Wang, Lanbo Cui, Yutian Du, Heng Wang, Lei Tang, and Huan Yang\nScientific Reports, 15, 29079 (2025)\nDOI\n\n\n\n\n\n\nHeng Wang, Heng Zhao, Fuqiang Wang, Bing Yan, Lei Tang, Yutian Du, and Lanbo Cui\nJournal of Hydrology, 645, 132162 (2024)\nDOI"
   },
   {
-    "objectID": "index.html#under-construction",
-    "href": "index.html#under-construction",
-    "title": "My Website",
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "publications",
     "section": "",
-    "text": "Check back later!"
+    "text": "Yutian Du, Subing Lv, Fuqiang Wang, Jie Xu, Heng Zhao, Lei Tang, Heng Wang, and Honglu Zhang\nScientific Reports, 15, 6351 (2025)\nDOI\n\n\n\n\nHeng Zhao, Yingying Gai, Fuqiang Wang, Lanbo Cui, Yutian Du, Heng Wang, Lei Tang, and Huan Yang\nScientific Reports, 15, 29079 (2025)\nDOI\n\n\n\n\n\n\nHeng Wang, Heng Zhao, Fuqiang Wang, Bing Yan, Lei Tang, Yutian Du, and Lanbo Cui\nJournal of Hydrology, 645, 132162 (2024)\nDOI"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "cv",
+    "section": "",
+    "text": "Ph.D. Student in Environment, Yale University\nEmail: yutian.du@yale.edu\nTel: 203-435-0996\nYale School of the Environment, Yale University, 195 Prospect Street, New Haven, CT 06511, USA\n\n\n\nImpacts and Mitigation of Climate Change\nExtreme Hydroclimatic Hazards\nDrought Propagation Mechanisms\nPlant Responses to Heat and Drought Stress\nEcosystem Carbon Cycling\nHydrological Modeling and Prediction\n\n\n\n\n\nProgramming & Data Analysis: Python, MATLAB, R, ArcGIS, CCM, OPGD, Google Earth Engine (GEE)\nHydrological Modeling: SWAT, SPHY\n\n\n\n\n\nPh.D. in Environment Yale School of the Environment, Yale University | 2026 – Present\nM.S. in Civil and Hydraulic Engineering North China University of Water Resources and Electric Power | 2022 - 2025\nB.S. in Water Engineering North China University of Water Resources and Electric Power | 2018 - 2022\n\n\n\n\n\n\nNational Natural Science Foundation of China Project: “Evolution of Micro-topography and the Response of Fish Habitat in a Sediment-Laden River Downstream of a Reservoir” |May 2024 – Aug 2024 Water Resources Survey and Assessment Project |Jul 2023 – Sep 2023 Mountain Flood Hazard Analysis and Assessment Project |Sep 2022 – Jun 2023\n\n\n\n\nHydrology and Water Resources Department, Nanjing Hydraulic Research Institute |Oct 2023 – Apr 2024\n\n\n\n\n\n\n\nYutian Du, Subing Lv, Fuqiang Wang, Jie Xu, Heng Zhao, Lei Tang, Heng Wang, and Honglu Zhang\nScientific Reports, 15, 6351 (2025)\nDOI\n\n\n\n\nHeng Zhao, Yingying Gai, Fuqiang Wang, Lanbo Cui, Yutian Du, Heng Wang, Lei Tang, and Huan Yang\nScientific Reports, 15, 29079 (2025)\nDOI\n\n\n\n\n\n\nHeng Wang, Heng Zhao, Fuqiang Wang, Bing Yan, Lei Tang, Yutian Du, and Lanbo Cui\nJournal of Hydrology, 645, 132162 (2024)\nDOI"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "cv",
+    "section": "",
+    "text": "Impacts and Mitigation of Climate Change\nExtreme Hydroclimatic Hazards\nDrought Propagation Mechanisms\nPlant Responses to Heat and Drought Stress\nEcosystem Carbon Cycling\nHydrological Modeling and Prediction"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "cv",
+    "section": "",
+    "text": "Programming & Data Analysis: Python, MATLAB, R, ArcGIS, CCM, OPGD, Google Earth Engine (GEE)\nHydrological Modeling: SWAT, SPHY"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "cv",
+    "section": "",
+    "text": "Ph.D. in Environment Yale School of the Environment, Yale University | 2026 – Present\nM.S. in Civil and Hydraulic Engineering North China University of Water Resources and Electric Power | 2022 - 2025\nB.S. in Water Engineering North China University of Water Resources and Electric Power | 2018 - 2022"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "cv",
+    "section": "",
+    "text": "National Natural Science Foundation of China Project: “Evolution of Micro-topography and the Response of Fish Habitat in a Sediment-Laden River Downstream of a Reservoir” |May 2024 – Aug 2024 Water Resources Survey and Assessment Project |Jul 2023 – Sep 2023 Mountain Flood Hazard Analysis and Assessment Project |Sep 2022 – Jun 2023"
+  },
+  {
+    "objectID": "cv.html#internship",
+    "href": "cv.html#internship",
+    "title": "cv",
+    "section": "",
+    "text": "Hydrology and Water Resources Department, Nanjing Hydraulic Research Institute |Oct 2023 – Apr 2024"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "cv",
+    "section": "",
+    "text": "Yutian Du, Subing Lv, Fuqiang Wang, Jie Xu, Heng Zhao, Lei Tang, Heng Wang, and Honglu Zhang\nScientific Reports, 15, 6351 (2025)\nDOI\n\n\n\n\nHeng Zhao, Yingying Gai, Fuqiang Wang, Lanbo Cui, Yutian Du, Heng Wang, Lei Tang, and Huan Yang\nScientific Reports, 15, 29079 (2025)\nDOI\n\n\n\n\n\n\nHeng Wang, Heng Zhao, Fuqiang Wang, Bing Yan, Lei Tang, Yutian Du, and Lanbo Cui\nJournal of Hydrology, 645, 132162 (2024)\nDOI"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "contact",
+    "section": "",
+    "text": "Yutian Du\nPh.D. Student in Environment\nYale School of the Environment |Malone Disturbance Ecology Lab\nYale University\nEmail: yutian.du@yale.edu\nAddress: Yale School of the Environment, Yale University, 195 Prospect Street, New Haven, CT 06511, USA"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "contact",
+    "section": "",
+    "text": "Yutian Du\nPh.D. Student in Environment\nYale School of the Environment |Malone Disturbance Ecology Lab\nYale University\nEmail: yutian.du@yale.edu\nAddress: Yale School of the Environment, Yale University, 195 Prospect Street, New Haven, CT 06511, USA"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Yutian Du",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nClimate–Ecosystem Interactions\nDrought and Climate Extremes\nLand–Atmosphere Interactions\nEcosystem Responses\nHydrological Modeling and Prediction"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yutian Du",
+    "section": "Education",
+    "text": "Education\nPh.D. in Environment\nYale University\n2026–Present\nM.S. in Civil and Hydraulic Engineering\nNorth China University of Water Resources and Electric Power\n2022–2025\nB.S. in Water Engineering\nNorth China University of Water Resources and Electric Power\n2018–2022"
   }
 ]
