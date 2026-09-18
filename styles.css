@@ -1,0 +1,341 @@
+/* General */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#quarto-content,
+body .page-columns,
+body main.content {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+body .page-columns,
+body main.content {
+  display: block !important;
+}
+
+.quarto-title-block,
+#title-block-header {
+  display: none !important;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #344955 !important;
+  min-height: 70px;
+  border-bottom: none;
+}
+
+.navbar-title {
+  color: #fff !important;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-right: 45px;
+}
+
+.navbar-nav .nav-link {
+  color: #e8eef1 !important;
+  font-size: 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #b9d2df !important;
+}
+
+
+
+/* Banner */
+.hero-banner {
+  width: 100%;
+  height: 380px;
+  margin: 0;
+  padding: 0;
+  background-image: url("images/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Biography section */
+.home-about {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #20232d;
+  color: #f2f2f2;
+  padding: 85px 10% 90px;
+}
+
+.about-top {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 70px;
+  align-items: center;
+  max-width: 1100px;
+  margin: 0 auto 60px;
+}
+
+.profile-area {
+  text-align: center;
+}
+
+.profile-photo {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.biography-area h1 {
+  color: #aebdca;
+  font-size: 3rem;
+  font-weight: 400;
+  margin: 0 0 20px;
+  border-bottom: none;
+}
+
+.biography-area p {
+  color: #f2f2f2;
+  font-size: 1.2rem;
+  line-height: 1.75;
+  margin: 0;
+}
+
+/* Interests and Education */
+.about-bottom {
+  display: grid;
+  grid-template-columns: 0.8fr 1.4fr;
+  gap: 80px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.about-bottom h2 {
+  color: #aebdca;
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin: 0 0 20px;
+  border-bottom: none;
+}
+
+.interests-area ul {
+  padding-left: 22px;
+}
+
+.interests-area li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.education-area p {
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+
+/* Links */
+.home-about a {
+  color: #6da8d6;
+  text-decoration: none;
+}
+
+.home-about a:hover {
+  color: #91c3e8;
+  text-decoration: underline;
+}
+
+/* Publications */
+.publications-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 55px 40px 80px;
+  color: #343a40;
+}
+
+.publications-page h1 {
+  font-size: 2.2rem;
+  margin: 0 0 35px;
+}
+
+.publications-page h2 {
+  font-size: 1.5rem;
+  margin: 0 0 35px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.publication {
+  font-size: 1.12rem;
+  line-height: 1.7;
+  margin: 0 0 28px;
+  padding-left: 0;
+  text-indent: 0;
+  text-align: left;
+}
+
+.publication p {
+  margin: 0;
+}
+
+.publication a {
+  color: #376f9f;
+  text-decoration: none;
+}
+
+.publication a:hover {
+  text-decoration: underline;
+}
+
+/* CV */
+.cv-page {
+  width: calc(100% - 80px);
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 55px 0 80px;
+  box-sizing: border-box;
+  color: #343a40;
+}
+
+.cv-page h1 {
+  font-size: 2.2rem;
+  margin: 0 0 25px;
+}
+
+.cv-page h2 {
+  font-size: 1.7rem;
+  margin: 42px 0 22px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d9d9d9;
+}
+
+.cv-page h3 {
+  font-size: 1.3rem;
+  margin: 30px 0 15px;
+}
+
+.cv-page p,
+.cv-page li {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.cv-page ul {
+  padding-left: 22px;
+}
+
+.cv-page li {
+  margin-bottom: 4px;
+}
+
+.cv-page a {
+  color: #376f9f;
+  text-decoration: none;
+}
+
+.cv-page a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .cv-page {
+    width: calc(100% - 40px);
+    padding: 35px 0 60px;
+  }
+}
+
+/* Contact */
+.contact-page {
+  width: calc(100% - 80px);
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 55px 0 80px;
+  box-sizing: border-box;
+  color: #343a40;
+}
+
+.contact-page h1 {
+  font-size: 2.2rem;
+  margin: 0 0 40px;
+}
+
+.contact-page h2 {
+  font-size: 1.5rem;
+  margin: 0 0 18px;
+  padding: 0;
+  border-bottom: none;
+}
+
+.contact-page p {
+  font-size: 1.08rem;
+  line-height: 1.7;
+  margin: 0 0 20px;
+}
+
+.contact-page a {
+  color: #376f9f;
+  text-decoration: none;
+}
+
+.contact-page a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .contact-page {
+    width: calc(100% - 40px);
+    padding: 35px 0 60px;
+  }
+}
+
+/* Footer */
+.nav-footer {
+  background-color: #181b23 !important;
+  color: #aebdca;
+  border-top: none;
+}
+
+.nav-footer a {
+  color: #aebdca;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .navbar {
+    min-height: 60px;
+  }
+
+  .hero-banner {
+    height: 220px;
+  }
+
+  .home-about {
+    padding: 50px 7%;
+  }
+
+  .about-top {
+    grid-template-columns: 1fr;
+    gap: 35px;
+    margin-bottom: 50px;
+  }
+
+  .profile-photo {
+    width: 200px;
+    height: 200px;
+  }
+
+  .biography-area h1 {
+    font-size: 2.3rem;
+  }
+
+  .biography-area p {
+    font-size: 1.05rem;
+  }
+
+  .about-bottom {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+}
