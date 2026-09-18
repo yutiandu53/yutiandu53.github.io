@@ -1,0 +1,31 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+execute:
+  freeze: auto
+
+website:
+  title: "My Website"
+  repo-url: https://github.com/yutiandu53/yutiandu53.github.io
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+    right:
+      - icon: github
+        href: https://github.com/yutiandu53/yutiandu53.github.io
+  page-footer:
+    center: "Copyright &copy; 2026, Yutian Du"
+    background: secondary
+
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
