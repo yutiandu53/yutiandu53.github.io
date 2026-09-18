@@ -1,0 +1,34 @@
+---
+title: "publications"
+format: html
+---
+
+
+## Journal Articles
+
+### 2025
+
+#### Investigation into the temporal impacts of drought on vegetation dynamics in China during 2000 to 2022
+
+**Yutian Du**, Subing Lv, Fuqiang Wang, Jie Xu, Heng Zhao, Lei Tang, Heng Wang, and Honglu Zhang  
+*Scientific Reports*, **15**, 6351 (2025)
+
+[DOI](https://doi.org/10.1038/s41598-025-90692-y)
+
+---
+
+#### Investigation into the supply-demand relationship of carbon sequestration in the Yellow River Basin using the optimal parameter geographical detector model
+
+Heng Zhao, Yingying Gai, Fuqiang Wang, Lanbo Cui, **Yutian Du**, Heng Wang, Lei Tang, and Huan Yang  
+*Scientific Reports*, **15**, 29079 (2025)
+
+[DOI](https://doi.org/10.1038/s41598-025-15298-w)
+
+### 2024
+
+#### Study on the multi-type drought propagation process and driving factors on the Tibetan Plateau
+
+Heng Wang, Heng Zhao, Fuqiang Wang, Bing Yan, Lei Tang, **Yutian Du**, and Lanbo Cui  
+*Journal of Hydrology*, **645**, 132162 (2024)
+
+[DOI](https://doi.org/10.1016/j.jhydrol.2024.132162)

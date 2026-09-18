@@ -1,0 +1,154 @@
+/* ---------- Navigation bar ---------- */
+
+.navbar {
+  background-color: white !important;
+  min-height: 70px;
+}
+
+.navbar-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #222222;
+}
+
+.navbar-nav .nav-link {
+  color: #333333 !important;
+  font-size: 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #5f7890 !important;
+}
+
+
+/* ---------- Remove default homepage spacing ---------- */
+
+#quarto-content {
+  padding: 0;
+}
+
+.page-layout-full .content {
+  margin: 0;
+  padding: 0;
+  max-width: none;
+}
+
+
+/* ---------- Landscape banner ---------- */
+
+.hero-banner {
+  width: 100%;
+  height: 360px;
+  background-image: url("images/banner.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+
+/* ---------- Main dark section ---------- */
+
+.home-about {
+  background-color: #20232d;
+  color: #f2f2f2;
+  padding: 90px 10%;
+}
+
+
+/* ---------- Photo + Biography ---------- */
+
+.about-top {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: 70px;
+  max-width: 1200px;
+  margin: 0 auto 60px auto;
+  align-items: center;
+}
+
+.profile-area {
+  text-align: center;
+}
+
+.profile-photo {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.biography-area h1 {
+  color: #aebdca;
+  font-size: 3rem;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+.biography-area {
+  font-size: 1.15rem;
+  line-height: 1.8;
+}
+
+
+/* ---------- Interests + Education ---------- */
+
+.about-bottom {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 100px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.about-bottom h2 {
+  color: #aebdca;
+  font-weight: 700;
+}
+
+.interests-area li {
+  margin-bottom: 8px;
+}
+
+.education-area p {
+  line-height: 1.6;
+}
+
+
+/* ---------- Footer ---------- */
+
+.nav-footer {
+  background-color: #191c24;
+  color: #aebdca;
+}
+
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 768px) {
+
+  .hero-banner {
+    height: 220px;
+  }
+
+  .home-about {
+    padding: 50px 7%;
+  }
+
+  .about-top {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+
+  .about-bottom {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+
+  .profile-photo {
+    width: 200px;
+    height: 200px;
+  }
+
+  .biography-area h1 {
+    font-size: 2.3rem;
+  }
+}
