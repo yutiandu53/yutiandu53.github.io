@@ -9,23 +9,35 @@ execute:
   freeze: auto
 
 website:
-  title: "My Website"
+  title: "Yutian Du"
   repo-url: https://github.com/yutiandu53/yutiandu53.github.io
   repo-actions: [issue]
+
   navbar:
-    background: primary
+    background: light
     left:
       - text: "Home"
         href: index.qmd
+      #- text: "Research"
+       # href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
     right:
       - icon: github
-        href: https://github.com/yutiandu53/yutiandu53.github.io
+        href: https://github.com/yutiandu53
+
   page-footer:
-    center: "Copyright &copy; 2026, Yutian Du"
-    background: secondary
+    center: "Copyright © 2026, Yutian Du"
+    background: dark
 
 format:
   html:
-    toc: true
+    theme: cosmo
+    css: styles.css
+    toc: false
     link-external-newwindow: true
     link-external-icon: false

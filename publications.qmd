@@ -1,34 +1,29 @@
 ---
-title: "publications"
-format: html
+title: "Publications"
 ---
 
+<div class="publications-page">
+
+# Publications
 
 ## Journal Articles
 
-### 2025
+<div class="publication">
 
-#### Investigation into the temporal impacts of drought on vegetation dynamics in China during 2000 to 2022
+Du, Y., Lv, S., Wang, F., Xu, J., Zhao, H., Tang, L., Wang, H., & Zhang, H. (2025). Investigation into the temporal impacts of drought on vegetation dynamics in China during 2000 to 2022. *Scientific Reports, 15*, 6351. [https://doi.org/10.1038/s41598-025-90692-y](https://doi.org/10.1038/s41598-025-90692-y)
 
-**Yutian Du**, Subing Lv, Fuqiang Wang, Jie Xu, Heng Zhao, Lei Tang, Heng Wang, and Honglu Zhang  
-*Scientific Reports*, **15**, 6351 (2025)
+</div>
 
-[DOI](https://doi.org/10.1038/s41598-025-90692-y)
+<div class="publication">
 
----
+Zhao, H., Gai, Y., Wang, F., Cui, L., Du, Y., Wang, H., Tang, L., & Yang, H. (2025). Investigation into the supply-demand relationship of carbon sequestration in the Yellow River Basin using the optimal parameter geographical detector model. *Scientific Reports, 15*, 29079. [https://doi.org/10.1038/s41598-025-15298-w](https://doi.org/10.1038/s41598-025-15298-w)
 
-#### Investigation into the supply-demand relationship of carbon sequestration in the Yellow River Basin using the optimal parameter geographical detector model
+</div>
 
-Heng Zhao, Yingying Gai, Fuqiang Wang, Lanbo Cui, **Yutian Du**, Heng Wang, Lei Tang, and Huan Yang  
-*Scientific Reports*, **15**, 29079 (2025)
+<div class="publication">
 
-[DOI](https://doi.org/10.1038/s41598-025-15298-w)
+Wang, H., Zhao, H., Wang, F., Yan, B., Tang, L., Du, Y., & Cui, L. (2024). Study on the multi-type drought propagation process and driving factors on the Tibetan Plateau. *Journal of Hydrology, 645*, 132162. [https://doi.org/10.1016/j.jhydrol.2024.132162](https://doi.org/10.1016/j.jhydrol.2024.132162)
 
-### 2024
+</div>
 
-#### Study on the multi-type drought propagation process and driving factors on the Tibetan Plateau
-
-Heng Wang, Heng Zhao, Fuqiang Wang, Bing Yan, Lei Tang, **Yutian Du**, and Lanbo Cui  
-*Journal of Hydrology*, **645**, 132162 (2024)
-
-[DOI](https://doi.org/10.1016/j.jhydrol.2024.132162)
+</div>

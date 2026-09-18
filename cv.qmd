@@ -1,8 +1,8 @@
 ---
-title: "cv"
-format: html
+title: "CV"
 ---
 
+<div class="cv-page">
 
 # Yutian Du
 
@@ -14,11 +14,10 @@ Yale School of the Environment, Yale University, 195 Prospect Street, New Haven,
 
 ## Research Interests
 
-- Impacts and Mitigation of Climate Change
-- Extreme Hydroclimatic Hazards
-- Drought Propagation Mechanisms
-- Plant Responses to Heat and Drought Stress
-- Ecosystem Carbon Cycling
+- Climate–Ecosystem Interactions
+- Drought and Climate Extremes
+- Land–Atmosphere Interactions
+- Ecosystem Responses
 - Hydrological Modeling and Prediction
 
 ## Skills
@@ -28,49 +27,30 @@ Yale School of the Environment, Yale University, 195 Prospect Street, New Haven,
 
 ## Education
 
-- **Ph.D. in Environment**  Yale School of the Environment, Yale University | 2026 – Present
-- **M.S. in Civil and Hydraulic Engineering**  North China University of Water Resources and Electric Power | 2022 - 2025
-- **B.S. in Water Engineering**  North China University of Water Resources and Electric Power | 2018 - 2022  
-
+- **Ph.D. in Environment** — Yale School of the Environment, Yale University | 2026–Present
+- **M.S. in Civil and Hydraulic Engineering** — North China University of Water Resources and Electric Power | 2022–2025
+- **B.S. in Water Engineering** — North China University of Water Resources and Electric Power | 2018–2022
 
 ## Research Experience
 
-### North China University of Water Resources and Electric Power (NCWU)
 
-**National Natural Science Foundation of China Project: "Evolution of Micro-topography and the Response of Fish Habitat in a Sediment-Laden River Downstream of a Reservoir"** |May 2024 – Aug 2024
-**Water Resources Survey and Assessment Project** |Jul 2023 – Sep 2023
-**Mountain Flood Hazard Analysis and Assessment Project** |Sep 2022 – Jun 2023
+**National Natural Science Foundation of China — "Evolution of micro-topography and the response of fish habitat in sediment-laden river downstream of a reservoir"**      *May 2024 – Aug 2024*
+
+**Water Resources Survey and Assessment Project**       *Jul 2023 – Sep 2023*
+
+**Mountain Flood Hazard Analysis and Assessment Project**      *Sep 2022 – Jun 2023*
 
 ## Internship
 
-**Hydrology and Water Resources Department, Nanjing Hydraulic Research Institute** |Oct 2023 – Apr 2024
-
+**Hydrology and Water Resources Department, Nanjing Hydraulic Research Institute**    *Oct 2023 – Apr 2024*
 
 ## Publications
 
-### 2025
+Du, Y., Lv, S., Wang, F., Xu, J., Zhao, H., Tang, L., Wang, H., & Zhang, H. (2025). Investigation into the temporal impacts of drought on vegetation dynamics in China during 2000 to 2022. *Scientific Reports, 15*, 6351. [https://doi.org/10.1038/s41598-025-90692-y](https://doi.org/10.1038/s41598-025-90692-y)
 
-#### Investigation into the temporal impacts of drought on vegetation dynamics in China during 2000 to 2022
+Zhao, H., Gai, Y., Wang, F., Cui, L., Du, Y., Wang, H., Tang, L., & Yang, H. (2025). Investigation into the supply-demand relationship of carbon sequestration in the Yellow River Basin using the optimal parameter geographical detector model. *Scientific Reports, 15*, 29079. [https://doi.org/10.1038/s41598-025-15298-w](https://doi.org/10.1038/s41598-025-15298-w)
 
-**Yutian Du**, Subing Lv, Fuqiang Wang, Jie Xu, Heng Zhao, Lei Tang, Heng Wang, and Honglu Zhang  
-*Scientific Reports*, **15**, 6351 (2025)
+Wang, H., Zhao, H., Wang, F., Yan, B., Tang, L., Du, Y., & Cui, L. (2024). Study on the multi-type drought propagation process and driving factors on the Tibetan Plateau. *Journal of Hydrology, 645*, 132162. [https://doi.org/10.1016/j.jhydrol.2024.132162](https://doi.org/10.1016/j.jhydrol.2024.132162)
 
-[DOI](https://doi.org/10.1038/s41598-025-90692-y)
 
----
-
-#### Investigation into the supply-demand relationship of carbon sequestration in the Yellow River Basin using the optimal parameter geographical detector model
-
-Heng Zhao, Yingying Gai, Fuqiang Wang, Lanbo Cui, **Yutian Du**, Heng Wang, Lei Tang, and Huan Yang  
-*Scientific Reports*, **15**, 29079 (2025)
-
-[DOI](https://doi.org/10.1038/s41598-025-15298-w)
-
-### 2024
-
-#### Study on the multi-type drought propagation process and driving factors on the Tibetan Plateau
-
-Heng Wang, Heng Zhao, Fuqiang Wang, Bing Yan, Lei Tang, **Yutian Du**, and Lanbo Cui  
-*Journal of Hydrology*, **645**, 132162 (2024)
-
-[DOI](https://doi.org/10.1016/j.jhydrol.2024.132162)
+</div>

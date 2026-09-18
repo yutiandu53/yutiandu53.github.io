@@ -12,7 +12,9 @@ title-block-banner: false
 ::: {.about-top}
 
 ::: {.profile-area}
+
 ![](images/profile.jpg){.profile-photo}
+
 :::
 
 ::: {.biography-area}
@@ -44,16 +46,13 @@ I am a Ph.D. student in Environment at Yale University, working on climate–eco
 ## Education
 
 **Ph.D. in Environment**  
-Yale University  
-2026–Present
+Yale University                                                | 2026–Present 
 
 **M.S. in Civil and Hydraulic Engineering**  
-North China University of Water Resources and Electric Power  
-2022–2025
+North China University of Water Resources and Electric Power   |2022–2025  
 
 **B.S. in Water Engineering**  
-North China University of Water Resources and Electric Power  
-2018–2022
+North China University of Water Resources and Electric Power   |2018–2022
 
 :::
 
